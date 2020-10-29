@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\bin\Debug\netcoreapp3.1\WishList.exe
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\bin\Debug\netcoreapp3.1\WishList.deps.json
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\bin\Debug\netcoreapp3.1\WishList.runtimeconfig.json
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\bin\Debug\netcoreapp3.1\WishList.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\bin\Debug\netcoreapp3.1\WishList.dll
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\bin\Debug\netcoreapp3.1\WishList.pdb
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\obj\Debug\netcoreapp3.1\WishList.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\obj\Debug\netcoreapp3.1\WishList.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\obj\Debug\netcoreapp3.1\WishList.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\obj\Debug\netcoreapp3.1\WishList.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\obj\Debug\netcoreapp3.1\WishList.dll
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\obj\Debug\netcoreapp3.1\WishList.pdb
+C:\Users\opilane\source\repos\ListsAndFiles\WishList\obj\Debug\netcoreapp3.1\WishList.genruntimeconfig.cache
